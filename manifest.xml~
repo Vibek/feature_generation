@@ -1,0 +1,30 @@
+<package>
+  <description brief="feature_generation">
+
+     activity_detection
+
+  </description>
+  <author>Hema Koppula</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/feature_generation</url>
+  <depend package="pcl"/>
+  <!--<depend package="pcl_ros"/>-->
+  <depend package="opencv2"/>
+    <depend package="roscpp"/>
+  <depend package="rospy"/>
+  <depend package="image_transport" />
+  <depend package="camera_info_manager" />
+  <depend package="hector_worldmodel_msgs" />
+  <depend package="sensor_msgs" />
+  <depend package="cv_bridge" />
+  <depend package="std_msgs" />
+    <depend package="tf"/>
+  <depend package="nav_msgs"/>
+ <depend package="geometry_msgs"/>
+  <depend package="image_transport" />
+  <depend package="dynamic_reconfigure" />
+
+
+</package>
+
