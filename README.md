@@ -9,6 +9,8 @@ The repository contains ROS packages for feature extraction and activity labelli
     Extracts the pointcloud indices of the objects using the provided image bounding boxes. 
     
     Code for generating features from the RGBD vedios
+    
+    save all the feature to the csv file to chcek joint intention results and object affordance in the file  
 
 
 Data can be downloaded from bellow given website with offcial permision
